@@ -50,19 +50,7 @@ git init
 echo "# Login System Project" > README.md
 git add .
 git commit -m "Initial project setup with React and Node.js"
+![Screenshot 2025-06-07 012701](https://github.com/user-attachments/assets/8161b7bc-300e-4633-afad-427d4f76382b)
 
+![Screenshot 2025-06-07 012811](https://github.com/user-attachments/assets/ac9318dc-d308-4b5f-a3ef-786668a3fd4d)
 
-After running these bash commands, you will have:
-login-system/
-├── backend/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── uploads/
-│   ├── index.js
-│   ├── .env
-├── frontend/
-│   └── ... (React project files)
-├── .gitignore
-└── README.md
